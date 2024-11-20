@@ -13,7 +13,6 @@ play an ascii video from a file:
 
 ./ascii_video.sh --play <output_file> --fps <frames_per_second> --loop-playback
 ```
-
 ### arguments
 
 - `--convert <video_path>`: specify the path to the input video to convert.
