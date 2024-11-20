@@ -1,6 +1,6 @@
 # ascii video converter
 
-```bash
+```sh
 a minimal tool to convert videos into ascii art and play them in the terminal.
 
 ## usage
