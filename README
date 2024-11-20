@@ -1,19 +1,18 @@
 # ascii video converter
 
-```
+```bash
 a minimal tool to convert videos into ascii art and play them in the terminal.
 
 ## usage
 
 convert a video to ascii and save frames to a file:
 
-cargo run -- --convert <video_path> --output <output_file> --width <target_width>
-
+./ascii_video.sh --convert <video_path> --output <output_file> --width <target_width>
 
 play an ascii video from a file:
 
-cargo run -- --play <output_file> --fps <frames_per_second> --loop-playback
-
+./ascii_video.sh --play <output_file> --fps <frames_per_second> --loop-playback
+```
 
 ### arguments
 
